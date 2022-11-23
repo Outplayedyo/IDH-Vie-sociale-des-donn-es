@@ -3,7 +3,7 @@
 
 # L'histoire de l'IDH
 
-<img align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg">
+<img border="10" align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg">
 
 <p align="justify"> L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989,
 quittant sa fonction de ministre des Finances du Pakistan et en collaboration avec l’économiste indien Amartya Kumar Sen, il va proposer à William H. Draper III, alors 
@@ -31,8 +31,11 @@ l’augmentation du PIB, parfois via des productions néfastes pour les populati
 -	1995 : la modification de 1991 est révisée : le nombre moyen d’années de scolarisation ne reflète pas fidèlement la réalité. Il va lui être préféré le taux agrégé de scolarisation dans le primaire, le secondaire et le supérieur.</p>
 
 La version hybride de l’IDH depuis 2010 peut être représentée par ce schéma :
+<br>
+
 ![image](https://user-images.githubusercontent.com/118900182/203556483-162d5b83-7022-447a-8273-2e919fe3f1fe.png)
 
+ <br>
  
 
 <p align="justify">De plus, le PNUD souhaite aller plus loin puisque dans le Rapport Mondial sur le Développement Humain de 2010 est créé l’IDHI (Indice de Développement Humain ajusté selon les Inégalités). Ce nouvel indice vient compléter l’IDH car selon ce rapport, « l'IDHI est le niveau réel de développement humain [car tenant compte des inégalités] » et que « l'IDH peut être vu comme un indice de développement humain “potentiel” ».</p>
