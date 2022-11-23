@@ -120,12 +120,12 @@ Dans un premier lieu, il permet de mieux mesurer les inégalités mondiales et d
 
 -	Concernant les problèmes d’éducation et surtout d’accès à l’éducation, ceux-ci vont être calculés en se basant sur le sous-indice « niveau d’éducation ». Ce sous-indice sera calculé grâce à X variables, ce qui lui permet d’être le plus fiable possible. Il combine la variable de la durée moyenne observée de scolarisation (qui représente le niveau d’éducation de la population adulte actuelle qui est âgée de plus de 25 ans) ainsi que d’une variable de durée attendue de scolarisation, qui sera définie par l’UNESCO (nombre d’années de scolarisation dont un enfant en âge d’entrer à l’école peut espérer bénéficier si les taux de scolarisation par âge devaient demeurer inchangés tout au long de la vie de l’enfant). 
 
--	Concernant les problèmes de pauvreté, l’IDH constitue encore une fois un outil qui permet de trouver des solutions à ces problèmes. Il va permettre une meilleure compréhension de la fracture sociale entre “Pays du Nord” et “Pays du Sud”, c’est-à-dire enter les pays développés et en développement, depuis plus de 50 ans. Amartya Sen, à l’origine de l’IDH, parle de cette fracture sociale comme le “rideau de fer des inégalités”. . En se basant sur les données issues du rapport mondial sur le développement humain de 2021, on obtient cette cartographie interactive de l’IDH dans le monde. 
+-	Concernant les problèmes de pauvreté, l’IDH constitue encore une fois un outil qui permet de trouver des solutions à ces problèmes. Il va permettre une meilleure compréhension de la fracture sociale entre “Pays du Nord” et “Pays du Sud”, c’est-à-dire enter les pays développés et en développement, depuis plus de 50 ans. Amartya Sen, à l’origine de l’IDH, parle de cette fracture sociale comme le “rideau de fer des inégalités”. . En se basant sur les données issues du rapport mondial sur le développement humain de 2021, on obtient cette cartographie interactive de l’IDH dans le monde. <br>
 
 
 <iframe width="624" height="386" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRHY2zXJcQfFEMjR-SlMiE2maEZNTeXjhbnvryB_BkYC5PXv_3cgyPEDXGj2bFfm_uK44Ny3gIspUZF/pubchart?oid=93428518&format=interactive"></iframe>
 
-
+<br>
 
 
 L’IDH va donc permettre de cibler certains pays (ceux pour qui l’indicateur sera trop faible) dans le but de les aider. Les aides qui seront prises sont une conséquence d’un IDH faible mais sont indépendantes de celui-ci. L’IDH joue un rôle d’alerte des gouvernements et organisations, et encore une fois de mesure, mais il ne peut en aucun cas garantir que des actions seront mises en place pour assurer une progression positive du développement humain. Parfois aussi, des évènements conjoncturels peuvent l’affecter sensiblement sur une période, tel que des guerres ou les crises économiques 
@@ -172,7 +172,7 @@ Pour conclure, l’IDH, grâce à sa double dimension, qualitative et quantitati
 On entend souvent que le pays où il ferait le mieux vivre serait la Norvège... 
 Cependant, les personnes soutenant cette proposition se basent quasiment tous sur l’indice de développement humain... Et si finalement la réalité était différente ?
  
-Cet indicateur est souvent apprécié par de nombreux gouvernements et analystes, mais il ne fait pas l’unanimité et est quand même source de critiques et de débats, que ce soit l’espace public ou auprès d’économistes et professionnels. De nombreux colloques et conférences ont lieu à ce sujet au sein de cercles d’économistes et cela partout dans le monde. Ces réunions font l’objet de réelles remises en question de l’instrument mis en avant par le PNUD, chacun y apporte ses arguments et éléments de controverses, mais on y évoque aussi des alternatives ou encore de nouvelles propositions de calculs. 
+Cet indicateur est souvent apprécié par de nombreux gouvernements et analystes, mais il ne fait pas l’unanimité et est quand même source de critiques et de débats, que ce soit l’espace public ou auprès d’économistes et professionnels. De nombreux colloques et conférences ont lieu à ce sujet au sein de cercles d’économistes et cela partout dans le monde. Ces réunions font l’objet de réelles remises en question de l’instrument mis en avant par le PNUD, chacun y apporte ses arguments et éléments de controverses, mais on y évoque aussi des alternatives ou encore de nouvelles propositions de calculs. <br>
  
 <iframe src="https://www.youtube.com/embed/Q1TvzKEuVCE" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
 Cercle économiste d’Aix-En-Provence , 6 Juillet 2019, LES INDICATEURS SONT-ILS EN PERTE DE SENS ?
@@ -197,7 +197,7 @@ Cet outil ne faisant pas l’unanimité, de nombreuses personnes, organismes, et
  
 <br>
 ## II - Qu’en pense le PNUD ?
- 
+<br>
  <iframe src="https://www.youtube.com/embed/z5WlqmFG0k4" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
  History of the Human Development index, and its major strengths and weaknesses, avril 2018
 
@@ -209,7 +209,7 @@ L’université de Genève a pu dans le cadre d’une interview poser des questi
 Celui-ci s’avoue assez fier et satisfait de cet outil et notamment des grands bienfaits que l’on peut en déduire. L’outil reste tout de même plus complet que le PIB/habitant et pourtant assez simple (donc accessible) et efficace. Il met en avant notamment le fait que cet indicateur soit souvent pris comme exemple pour faire pression ou revendiquer certains changements en termes de politiques publiques de la part des gouvernements. 
  
 Effectivement, on retrouve l’IDH dans les revendications de certaines associations, partis politique, au sein de l’espace public et même au sein d’un espace public plus « virtuel » : Twitter. Il demeure donc une certaine confiance envers cet indicateur qui, malgré toutes les critiques formulées à son égard, reste un appui à certains arguments utilisés au sein du débat public.  
-
+<br>
 
 <blockquote class="twitter-tweet" data-theme="light"><p lang="fr" dir="ltr">Complètement foireux. C&#39;est sur un temps très court et à coup d&#39;argent public transformé en dette pour atteindre des niveaux très préoccupants. En 10 ans, le rang IDH de la France est passé du 20e au 27e, l&#39;Espagne nous a dépassé et Macron en est grandement responsable! <a href="https://t.co/YzAYcUKxMY">pic.twitter.com/YzAYcUKxMY</a></p>&mdash; Vincent de Vincennes (@VincentdeVince2) <a href="https://twitter.com/VincentdeVince2/status/1528049755196207105?ref_src=twsrc%5Etfw">May 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
