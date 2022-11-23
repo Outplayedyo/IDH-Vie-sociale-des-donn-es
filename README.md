@@ -123,6 +123,8 @@ Dans un premier lieu, il permet de mieux mesurer les inégalités mondiales et d
 -	Concernant les problèmes de pauvreté, l’IDH constitue encore une fois un outil qui permet de trouver des solutions à ces problèmes. Il va permettre une meilleure compréhension de la fracture sociale entre “Pays du Nord” et “Pays du Sud”, c’est-à-dire enter les pays développés et en développement, depuis plus de 50 ans. Amartya Sen, à l’origine de l’IDH, parle de cette fracture sociale comme le “rideau de fer des inégalités”. . En se basant sur les données issues du rapport mondial sur le développement humain de 2021, on obtient cette cartographie de l’IDH dans le monde. 
 ![image](https://user-images.githubusercontent.com/118900182/203610631-1141e2ca-ee4b-42a2-9f3a-312a9cd1d8b8.png)
 
+<iframe width="624" height="386" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRHY2zXJcQfFEMjR-SlMiE2maEZNTeXjhbnvryB_BkYC5PXv_3cgyPEDXGj2bFfm_uK44Ny3gIspUZF/pubchart?oid=93428518&format=interactive"></iframe>
+
 
 
 
@@ -199,7 +201,7 @@ Cet outil ne faisant pas l’unanimité, de nombreuses personnes, organismes, et
  <iframe src="https://www.youtube.com/embed/Q1TvzKEuVCE" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
  History of the Human Development index, and its major strengths and weaknesses, avril 2018
 
- 
+<br>
 Nous avons pu voir les critiques émises par de nombreux acteurs, mais finalement quel est l’avis de l’organisme à l’origine de cet indicateur ? 
  
 L’université de Genève a pu dans le cadre d’une interview poser des questions à Selim Jahan, Directeur de l’Office du rapport du développement humain. 
@@ -208,7 +210,7 @@ Celui-ci s’avoue assez fier et satisfait de cet outil et notamment des grands 
  
 Effectivement, on retrouve l’IDH dans les revendications de certaines associations, partis politique, au sein de l’espace public et même au sein d’un espace public plus « virtuel » : Twitter. Il demeure donc une certaine confiance envers cet indicateur qui, malgré toutes les critiques formulées à son égard, reste un appui à certains arguments utilisés au sein du débat public.  
 
- (cf https://twitter.com/vincentdevince2/status/1528049755196207105?s=12&t=LjIfZJD3xNepn3NCLnH6-Q => essayer de le caler dans le site web) 
+
  
 Cependant, Monsieur Jahan se montre adepte de l’auto-critique et met en avant certaines faiblesses de l’outil sur lequel il travaille. 
 Dans un premier temps, il rejoint certaines critiques et souligne le fait que ce soit un index composé et donc que dans certains cas, il perd en prédictibilité et robustesse. 
