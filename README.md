@@ -4,7 +4,7 @@
 # L'histoire de l'IDH
 
 
-<img style="border:10px;"align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg">
+<img style="border:10px;" align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg">
 
  L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989,
 quittant sa fonction de ministre des Finances du Pakistan et en collaboration avec l’économiste indien Amartya Kumar Sen, il va proposer à William H. Draper III, alors 
