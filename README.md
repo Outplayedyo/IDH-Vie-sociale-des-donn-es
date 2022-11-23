@@ -174,8 +174,10 @@ Cet indicateur est souvent apprécié par de nombreux gouvernements et analystes
  
 <iframe src="https://www.youtube.com/embed/Q1TvzKEuVCE" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
 Cercle économiste d’Aix-En-Provence , 6 Juillet 2019, LES INDICATEURS SONT-ILS EN PERTE DE SENS ?
- 
-A/ Les critiques de L’IDH
+
+<br>
+## I - Les critiques de L’IDH
+
  
 Nous allons dans cette première partie mettre en avant les faiblesses majeurs de cet indicateur, qui font l’objet de nombreuses critiques. 
  
@@ -191,9 +193,12 @@ A cause de ces critiques, qui soulignent les faiblesses de cet outil, une sorte 
  
 Cet outil ne faisant pas l’unanimité, de nombreuses personnes, organismes, et même les Nations Unies proposent des alternatives et outils complémentaires tel que l’indice de pauvreté multidimensionnelle qui a pour but de mettre en avant les inégalités, et donc de mieux cerner l’IDH avec un calcul supplémentaire. 
  
-B/ Qu’en pense le PNUD ? 
+<br>
+## II - Qu’en pense le PNUD ?
  
-https://www.youtube.com/watch?v=z5WlqmFG0k4
+ <iframe src="https://www.youtube.com/embed/Q1TvzKEuVCE" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
+ History of the Human Development index, and its major strengths and weaknesses, avril 2018
+
  
 Nous avons pu voir les critiques émises par de nombreux acteurs, mais finalement quel est l’avis de l’organisme à l’origine de cet indicateur ? 
  
