@@ -1,7 +1,7 @@
 <h1 align="center"><FONT size ="20pt">Vie sociale des données : Enquête sur l'Indice de développement Humain (IDH)</FONT></h1>
 
 
-# L'Histoire de l'IDH
+# <u> L'Histoire de l'IDH <u>
 
 <img align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg">
 
