@@ -45,6 +45,11 @@ Pour finir, dans sa volonté de prendre en compte de plus en plus de données po
 
 
 
+
+
+
+
+
 # Comment est calculé L’Indice de Développement Humain ? 
 
 
@@ -80,6 +85,14 @@ Encore, l’usage de la moyenne arithmétique accorde délibérément un poids �
 Le même procédé de rapport entre 0 et 1 est effectué pour chacun des deux autres indices, via le même processus d’évaluation des valeurs minimales et maximales. 
 ### II – Calcul de la moyenne géométrique des sous-indices. 
 Après l’évaluation des trois sous-indices, la moyenne géométrique est calculée, grâce à la formule précédemment évoquée.
+
+
+
+
+
+
+
+
 
 
 # Les usages de l'IDH 
