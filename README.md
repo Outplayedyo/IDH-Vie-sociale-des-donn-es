@@ -181,7 +181,7 @@ Cercle économiste d’Aix-En-Provence , 6 Juillet 2019, LES INDICATEURS SONT-IL
 ## I - Les critiques de L’IDH
 
  
-Nous allons dans cette première partie mettre en avant les faiblesses majeurs de cet indicateur, qui font l’objet de nombreuses critiques. 
+Nous allons dans cette première partie mettre en avant les faiblesses majeures de cet indicateur, qui font l’objet de nombreuses critiques. 
  
 Dans un premier temps, évoquons l’aspect éducation que prend en compte l’IDH. 
 Le taux d’alphabétisation mis en exergue dans le calcul est estimé à partir du nombre d’années de scolarisation. Cependant, d’un pays à un autre nous n’avons pas la même progression et le même nombre d'années de scolarité mais cela n’est pas forcément corrélé avec le taux d’analphabétisation.  
@@ -227,7 +227,8 @@ Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et uti
 ## Bibliographie
 <br>
 INSEE,Jérôme Accardo, Fabrice Murat, Gaël de Peretti, 2019 “L’indice de développement humain : une approche individuelle”, [En ligne]<br>
-[Link](https://webcache.googleusercontent.com/searchq=cache:Ai9KzGnd9nQJ:https://www.insee.fr/fr/statistiques/fichier/2586304/texte_accardo_de_peretti_murat.pdf&cd=4&hl=fr&ct=clnk&gl=fr)
+[Link](https://webcache.googleusercontent.com/search?q=cache:Ai9KzGnd9nQJ:https://www.insee.fr/fr/statistiques/fichier/2586304/texte_accardo_de_peretti_murat.pdf&cd=4&hl=fr&ct=clnk&gl=fr)
+
  
  
 GADREY J. ET F. JANY-CATRICE, 2003, « Les indicateurs de richesse et de développement. Un bilan international en vue d’une initiative française », Rapport de recherche commandité et financé par la DARES (Mission Animation de la Recherche). 
@@ -236,24 +237,31 @@ Géo environnement, 2020, “qu’est ce que l’indice de développement humain
 [Link](https://www.geo.fr/environnement/idh-quest-ce-que-lindice-de-developpement-humain-193546) 
 
 Vie publique, Les fiches, “L’indice de développement humain et les autres indices”, [En ligne]
-https://www.vie-publique.fr/fiches/274930-quest-ce-que-lindice-de-developpement-humain-idh-et-autres-indicesB 
+[Link](https://www.vie-publique.fr/fiches/274930-quest-ce-que-lindice-de-developpement-humain-idh-et-autres-indicesB)
 
 Cairn info, Revue d’économie régionale et urbaine, 2011, “un indicateur de développement humain soutenable pour les petits espaces insulaires en développement”, pages 651 à 680, [Extrait en ligne] 
-https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2011-4-page-651.htm 
+[Link](https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2011-4-page-651.htm)
 
 
 Human development report, “technical notes”, 2020, [En ligne]
-https://hdr.undp.org/system/files/documents//technical-notes-calculating-human-development-indices.pdf   
+[Link](https://hdr.undp.org/system/files/documents//technical-notes-calculating-human-development-indices.pdf)
 
 World Bank. 2020. World Development Indicators database. Washington, DC, [En ligne]  
-http://data.worldbank.org 
+[Link](http://data.worldbank.org)
 
 Le Senat, M. Bernard SEILLIER, “La lutte contre la pauvreté et l'exclusion : une responsabilité à partager”, 2008,[En ligne]<br>
-https://www.senat.fr/rap/r07-445-1/r07-445-110.html 
+[Link](https://www.senat.fr/rap/r07-445-1/r07-445-110.html) 
 
 
 PNUD, 2011, Rapport sur le développement humain, [En ligne] 
-https://ise.unige.ch/isdd/IMG/pdf/HDR_2011_FR_TechNotes.pdf
+[Link](https://ise.unige.ch/isdd/IMG/pdf/HDR_2011_FR_TechNotes.pdf)
+
+Cairn info, Management et avenir, Gilles caire, Sophie Nivoix, 2019, “Noter humainement les entreprises : une proposition d’indice de développement humain des entreprises (IDHE)
+”, pages 43 à 63, [Extrait en ligne] 
+[Link](https://www.cairn.info/revue-management-et-avenir-2019-8-page-43.htm)
+
+Journal Open Edition, Thomas Pogge, Mathilde Unge, 2013, “La critique des indices de pauvreté”,  [En ligne]
+[Link](https://journals.openedition.org/traces/5753)
 
 
 <br>
