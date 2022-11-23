@@ -113,7 +113,7 @@ Premièrement, nous allons voir son usage principal, celui pour lequel il a ét�
 
 <br>
 
-##I - Les principaux usages de l’IDH 
+## I - Les principaux usages de l’IDH  
 
 
 Dans un premier lieu, il permet de mieux mesurer les inégalités mondiales et de trouver des solutions aux problèmes d’éducation, d’accès à la santé et aussi de pauvreté. C’est l’usage principal de l’IDH qui découle de son calcul et de sa composition. 
