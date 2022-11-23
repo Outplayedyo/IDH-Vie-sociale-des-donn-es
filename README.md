@@ -132,7 +132,9 @@ L’IDH va donc permettre de cibler certains pays (ceux pour qui l’indicateur 
 
 Enfin, grâce aux mesures de l’IDH de chaque pays, un classement rendu public sera établi par le PNUD (autorité gestionnaire de l’IDH). Ce classement constate les évolutions et 
 régressions effectuées par les différents pays du monde en matière de développement (cela va permettre de constater l’effectivité des mesures et engagements pris individuellement par les différents Etats mais aussi par les coalitions internationales à la suite de la publication des résultats de cet indicateur).  Par exemple, le gouvernement d’Ottawa avance régulièrement que le Canada est le meilleur pays au monde en matière de « développement humain ». Pour le prouver, on cite le score attribué par le PNUD puisque le Canada s’est classé en tête à plusieurs reprises, devant les États-Unis et le Japon avec une note dépassant 0,93. 
+
 <br>
+
 ## II - Les usages détournés répondant à des phénomènes de société actuels 
 
 Dans une deuxième partie, il est possible de voir que l’IDH est un indicateur standard qui peut servir de base à la création d’autres indicateurs qui vont mesurer des choses plus spécifiques grâce à l’ajout de variables ou de sous-indicateurs indépendants. Voici quelques exemples de ce qui peut être fait pour utiliser l’IDH et répondre, ou mesurer des problèmes de société actuels. 
