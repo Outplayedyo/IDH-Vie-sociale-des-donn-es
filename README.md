@@ -226,7 +226,7 @@ Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et uti
 
 ## Bibliographie
 <br>
-INSEE,Jérôme Accardo, Fabrice Murat, Gaël de Peretti, 2019 “L’indice de développement humain : une approche individuelle”, [En ligne] 
+INSEE,Jérôme Accardo, Fabrice Murat, Gaël de Peretti, 2019 “L’indice de développement humain : une approche individuelle”, [En ligne]<br>
 https://webcache.googleusercontent.com/search?q=cache:Ai9KzGnd9nQJ:https://www.insee.fr/fr/statistiques/fichier/2586304/texte_accardo_de_peretti_murat.pdf&cd=4&hl=fr&ct=clnk&gl=fr
  
  
@@ -248,7 +248,7 @@ https://hdr.undp.org/system/files/documents//technical-notes-calculating-human-d
 World Bank. 2020. World Development Indicators database. Washington, DC, [En ligne]  
 http://data.worldbank.org 
 
-Le Senat, M. Bernard SEILLIER, “La lutte contre la pauvreté et l'exclusion : une responsabilité à partager”, 2008,[En ligne]
+Le Senat, M. Bernard SEILLIER, “La lutte contre la pauvreté et l'exclusion : une responsabilité à partager”, 2008,[En ligne]<br>
 https://www.senat.fr/rap/r07-445-1/r07-445-110.html 
 
 
