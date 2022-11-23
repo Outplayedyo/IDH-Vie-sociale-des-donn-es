@@ -3,7 +3,7 @@
 
 ## L'Histoire de l'IDH
 
-<img align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg"> </img>
+<img align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg">
 
 
 L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989,
@@ -14,7 +14,7 @@ administrateur du PNUD (Programme des Nations unies pour le Développement), la 
 
 
 
-Cette initiative vient d’une critique qui nait à la fin des années 1960, début des années 1970 : le PIB par habitant ne rend pas compte de la notion de bien-être et se contente de quantifier le revenu national par rapport à l’individu. En effet, Mahbub estimait que la notion de PIB avait créé l’illusion qu’augmenter la production nationale signifiait augmenter le bien-être individuel ou collectif. <img align="right" src="https://cdn.economy-pedia.com/2330186/amartya_sen_-_biografa-_quin_es_y_qu_hizo_2021_economy-wikicom.jpg.webp"> </img> <br> Il considérait ce nouvel indice comme un rempart face aux gouvernements qui ne jurent que par 
+Cette initiative vient d’une critique qui nait à la fin des années 1960, début des années 1970 : le PIB par habitant ne rend pas compte de la notion de bien-être et se contente de quantifier le revenu national par rapport à l’individu. En effet, Mahbub estimait que la notion de PIB avait créé l’illusion qu’augmenter la production nationale signifiait augmenter le bien-être individuel ou collectif. <img align="right" src="https://cdn.economy-pedia.com/2330186/amartya_sen_-_biografa-_quin_es_y_qu_hizo_2021_economy-wikicom.jpg.webp"> <br> Il considérait ce nouvel indice comme un rempart face aux gouvernements qui ne jurent que par 
 l’augmentation du PIB, parfois via des productions néfastes pour les populations ou l’environnement.
 
 
