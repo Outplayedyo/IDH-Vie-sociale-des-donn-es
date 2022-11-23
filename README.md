@@ -173,7 +173,6 @@ Cependant, les personnes soutenant cette proposition se basent quasiment tous su
 Cet indicateur est souvent apprécié par de nombreux gouvernements et analystes, mais il ne fait pas l’unanimité et est quand même source de critiques et de débats, que ce soit l’espace public ou auprès d’économistes et professionnels. De nombreux colloques et conférences ont lieu à ce sujet au sein de cercles d’économistes et cela partout dans le monde. Ces réunions font l’objet de réelles remises en question de l’instrument mis en avant par le PNUD, chacun y apporte ses arguments et éléments de controverses, mais on y évoque aussi des alternatives ou encore de nouvelles propositions de calculs. 
  
 <iframe src="https://www.youtube.com/embed/Q1TvzKEuVCE" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
-<br>
 Cercle économiste d’Aix-En-Provence , 6 Juillet 2019, LES INDICATEURS SONT-ILS EN PERTE DE SENS ?
  
 A/ Les critiques de L’IDH
