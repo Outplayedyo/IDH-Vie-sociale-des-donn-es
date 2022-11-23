@@ -8,7 +8,7 @@
 
 L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989,
 quittant sa fonction de ministre des Finances du Pakistan et en collaboration avec l’économiste indien Amartya Kumar Sen, il va proposer à William H. Draper III, alors 
-administrateur du PNUD (Programme des Nations unies pour le Développement), la création d’un reporting annuel de l’évolution de l’humanité. Il compte prendre en compte différents critères tels que **l’espérance de vie à la naissance**, **le niveau d’éducation** ou encore **le revenu par habitant**.</p>
+administrateur du PNUD (Programme des Nations unies pour le Développement), la création d’un reporting annuel de l’évolution de l’humanité. Il compte prendre en compte différents critères tels que **l’espérance de vie à la naissance**, **le niveau d’éducation** ou encore **le revenu par habitant**.
 
 	
 
