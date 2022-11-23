@@ -1,23 +1,23 @@
-#                                       Vie sociale des données : Enquête sur l'Indice de développement Humain (IDH)
-
+<h1 align="center"><FONT size ="20pt">Vie sociale des données : Enquête sur l'Indice de développement Humain (IDH)</FONT></h1>
 
 
 ## L'Histoire de l'IDH
 
-
-<p align="center"> 
-<img src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg" /> 
-</p>
-
-<p align="center"> 
-<img src="https://cdn.economy-pedia.com/2330186/amartya_sen_-_biografa-_quin_es_y_qu_hizo_2021_economy-wikicom.jpg.webp" /> 
-</p>
+<img align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg"> </img>
 
 
-L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989, quittant sa fonction de ministre des Finances du Pakistan et en collaboration avec l’économiste indien Amartya Kumar Sen, il va proposer à William H. Draper III, alors administrateur du PNUD (Programme des Nations unies pour le Développement), la création d’un reporting annuel de l’évolution de l’humanité. Il compte prendre en compte différents critères tels l’espérance de vie à la naissance, le niveau d’éducation ou encore le revenu par habitant. 
+L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989,
+quittant sa fonction de ministre des Finances du Pakistan et en collaboration avec l’économiste indien Amartya Kumar Sen, il va proposer à William H. Draper III, alors 
+administrateur du PNUD (Programme des Nations unies pour le Développement), la création d’un reporting annuel de l’évolution de l’humanité. Il compte prendre en compte différents critères tels que **l’espérance de vie à la naissance**, **le niveau d’éducation** ou encore <u>**le revenu par habitant**.</p>
+
+	
 
 
-Cette initiative vient d’une critique qui nait à la fin des années 1960, début des années 1970 : le PIB par habitant ne rend pas compte de la notion de bien-être et se contente de quantifier le revenu national par rapport à l’individu. En effet, Mahbub estimait que la notion de PIB avait créé l’illusion qu’augmenter la production nationale signifiait augmenter le bien-être individuel ou collectif. Il considérait ce nouvel indice comme un rempart face aux gouvernements qui ne jurent que par l’augmentation du PIB, parfois via des productions néfastes pour les populations ou l’environnement.
+
+Cette initiative vient d’une critique qui nait à la fin des années 1960, début des années 1970 : le PIB par habitant ne rend pas compte de la notion de bien-être et se contente de quantifier le revenu national par rapport à l’individu. En effet, Mahbub estimait que la notion de PIB avait créé l’illusion qu’augmenter la production nationale signifiait augmenter le bien-être individuel ou collectif. Il considérait ce nouvel indice comme un rempart face aux gouvernements qui ne jurent que par <img align="right" src="https://cdn.economy-pedia.com/2330186/amartya_sen_-_biografa-_quin_es_y_qu_hizo_2021_economy-wikicom.jpg.webp"> </img>
+l’augmentation du PIB, parfois via des productions néfastes pour les populations ou l’environnement.
+
+
 
 
 Le succès de ce nouvel indice est dû en partie au soutien d’Amartya Sen, prix Nobel d’économie en 1998, qui longtemps sceptique a fini par reconnaître son utilité : « Nous avons besoin d’une mesure, disait Mahbub, aussi simple que le PNB – un seul chiffre –, mais qui ne soit pas aussi aveugle que lui face aux aspects sociaux de la vie humaine. » Il poursuivait : « Mahbub espérait non seulement que l’IDH améliorerait, ou du moins compléterait utilement le PNB, mais aussi qu’il susciterait un intérêt pour les autres variables qui sont amplement analysées dans le Rapport mondial sur le développement humain. »
@@ -31,6 +31,8 @@ Avec l’impulsion Mahbub ul Haq, le PNUD publie chaque année le Rapport Mondia
 -	1995 : la modification de 1991 est révisée : le nombre moyen d’années de scolarisation ne reflète pas fidèlement la réalité. Il va lui être préféré le taux agrégé de scolarisation dans le primaire, le secondaire et le supérieur.
 
 La version hybride de l’IDH depuis 2010 peut être représentée par ce schéma :
+![image](https://user-images.githubusercontent.com/118900182/203556483-162d5b83-7022-447a-8273-2e919fe3f1fe.png)
+
  
 
 De plus, le PNUD souhaite aller plus loin puisque dans le Rapport Mondial sur le Développement Humain de 2010 est créé l’IDHI (Indice de Développement Humain ajusté selon les Inégalités). Ce nouvel indice vient compléter l’IDH car selon ce rapport, « l'IDHI est le niveau réel de développement humain [car tenant compte des inégalités] » et que « l'IDH peut être vu comme un indice de développement humain “potentiel” ».
@@ -48,9 +50,9 @@ Pour finir, dans sa volonté de prendre en compte de plus en plus de données po
 
 
 L’Indice de Développement Humain est un indice composite. Il est élaboré à partir de la moyenne géométrique de 3 sous-indicateurs, considérés clefs dans l’évaluation du « développement humain ». Compris entre 0 et 1, de l’évaluation la plus basse à la plus haute, il repose donc sur les moyennes respectives de : 
-- **L’espérance de vie à la naissance**. A travers cet indicateur de santé, une mesure indirecte des conditions de vie à venir des individus est estimée, via la satisfaction de besoins essentiels tels que l’accès à une alimentation saine, à l’eau potable, à un logement décent, ainsi que leur accès à la médecine et aux soins. Ces données sont fournies par le Département des Affaires économiques et sociales de l’ONU.
-- **Le niveau d’éducation**. Cette mesure du savoir des populations évalue la durée moyenne de scolarisation des adultes de plus de 25 ans (évaluée par Barro et Lee (2010)) ainsi que la durée obligatoire ou attendue de scolarisation pour les enfants scolarisables (mesurée par l’Institut de statistique de l’UNESCO). Ce sous indicateur entend est significatif dans la capacité d’un individu à se montrer autonome en milieu social, comme professionnel.
--  **Le revenu national brut par habitant**. Révélateur du niveau de vie d’un individu, au sein d’une société, cet indice calculé officiellement par le Fonds Monétaire International et la Banque Mondiale est le logarithme du revenu brut par habitant en parité de pouvoir d'achat. Son calcul met en lumière des éléments relatifs à la qualité de vie, comme l’accès à la culture, aux transports, ou encore aux biens et services d’une population.
+    L’espérance de vie à la naissance. A travers cet indicateur de santé, une mesure indirecte des conditions de vie à venir des individus est estimée, via la satisfaction de besoins essentiels tels que l’accès à une alimentation saine, à l’eau potable, à un logement décent, ainsi que leur accès à la médecine et aux soins. Ces données sont fournies par le Département des Affaires économiques et sociales de l’ONU. 
+    Le niveau d’éducation. Cette mesure du savoir des populations évalue la durée moyenne de scolarisation des adultes de plus de 25 ans (évaluée par Barro et Lee (2010)) ainsi que la durée obligatoire ou attendue de scolarisation pour les enfants scolarisables (mesurée par l’Institut de statistique de l’UNESCO). Ce sous indicateur entend est significatif dans la capacité d’un individu à se montrer autonome en milieu social, comme professionnel. 
+    Le revenu national brut par habitant. Révélateur du niveau de vie d’un individu, au sein d’une société, cet indice calculé officiellement par le Fonds Monétaire International et la Banque Mondiale est le logarithme du revenu brut par habitant en parité de pouvoir d'achat. Son calcul met en lumière des éléments relatifs à la qualité de vie, comme l’accès à la culture, aux transports, ou encore aux biens et services d’une population.
 
 Le PNUD endosse également la responsabilité de mettre la composition et la méthodologie de l’IDH en révision, à fréquence régulière, en réponse notamment à l’observation de variations conséquentes et/ou alarmantes. C’est pour cette raison que l’indice évolue régulièrement, afin d’affiner sa justesse. Nous pouvons ainsi constater la disparition de la prise en compte du niveau d’alphabétisation ou encore du PIB par habitant, considérés inadaptés voire obsolètes dans l’établissement d’un Indice de Développement Humain performant et juste. 
 
@@ -72,16 +74,15 @@ Une fois que les valeurs minimales et maximales sont définies, les sous-indices
 ![imagenet logo](https://wikimedia.org/api/rest_v1/media/math/render/svg/62e9f8cdf5ba86208db27723c289f27e80c5a42f)
 
 Deux indicateurs construisent le sous-indice relatif à l’éducation : 
-- **la durée obligatoire ou attendue de scolarisation par l’Etat étudié**. 
-- **la durée moyenne de scolarisation par individu**. 
-
+la durée obligatoire ou attendue de scolarisation par l’Etat étudié. 
+la durée moyenne de scolarisation par individu. 
 Encore, l’usage de la moyenne arithmétique accorde délibérément un poids égal aux deux indicateurs étudiés. Ces deux mesures agrégées forment le 
 Le même procédé de rapport entre 0 et 1 est effectué pour chacun des deux autres indices, via le même processus d’évaluation des valeurs minimales et maximales. 
 ### II – Calcul de la moyenne géométrique des sous-indices. 
 Après l’évaluation des trois sous-indices, la moyenne géométrique est calculée, grâce à la formule précédemment évoquée : .
 
 
-## Les usages de l'IDH. 
+## Les usages de l'IDH 
 
 Nous allons désormais nous pencher sur les usages que peuvent être fait de l’IDH.
 A l’origine, celui-ci permet d’évaluer le niveau de développement des pays en se fondant non pas sur
@@ -122,9 +123,7 @@ développement, depuis plus de 50 ans. Amartya Sen, à l’origine de l’IDH, p
 sociale comme le “rideau de fer des inégalités”. L’IDH va donc permettre de cibler certains pays (ceux
 pour qui l’indicateur sera trop faible) dans le but de les aider. Les aides qui seront prises sont une
 conséquence d’un IDH faible mais sont indépendantes de celui-ci. L’IDH a un rôle d’alerte des
-gouvernements et organisations, et encore une fois de mesure, mais il ne peut en aucun cas garantir
-
-que des actions seront mises en place pour assurer une progression positive du développement
+gouvernements et organisations, et encore une fois de mesure, mais il ne peut en aucun cas garantir que des actions seront mises en place pour assurer une progression positive du développement
 humain. Parfois aussi, des évènements conjoncturels peuvent l’affecter sensiblement sur une
 période, tel que des guerres ou les crises économiques.
 Enfin, grâce aux mesures de l’IDH de chaque pays, un classement rendu public sera établi par le
