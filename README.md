@@ -1,7 +1,7 @@
 <h1 align="center"><FONT size ="20pt">Vie sociale des données : Enquête sur l'Indice de développement Humain (IDH)</FONT></h1>
 
 
-# L'Histoire de l'IDH
+# L'histoire de l'IDH
 
 <img align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg">
 
@@ -50,7 +50,7 @@ Pour finir, dans sa volonté de prendre en compte de plus en plus de données po
 
 
 
-# Comment est calculé L’Indice de Développement Humain ? 
+# Comment est calculé l’Indice de Développement Humain ? 
 
 
 
@@ -64,7 +64,7 @@ Le PNUD endosse également la responsabilité de mettre la composition et la mé
 La publication officielle de l’IDH est effectuée chaque année. Le rapport annuel est construit sur les données recueillies deux ans auparavant, dans un souci de disponibilité et de pertinence des données utilisées. A titre d’illustration, l’IDH d’un pays en 2018 est fondé sur les données recueillies à l’issue de l’année 2016. Malgré cette prise de recul, il est à noter que l’accès aux données n’est pas suffisant à la mesure d’un IDH correct dans certains pays. En 2021, c’était le cas de Monaco, la Corée du Nord, Nauru et la Somalie. 
 <br>
 
-## Formules : 
+## Formules 
 
 La mise en place du calcul de l’IDH par moyenne géométrique visait, lors de son instauration, à empêcher que la tendance extrême d’un des trois indicateurs soit compensée par le résultat des deux autres. En autres termes, si l’un des indicateurs est très bas pour un pays, alors que les deux autres sont corrects voire hauts, la moyenne géométrique laisse cette tendance inférieure transparaître dans l’IDH final. 
 
@@ -86,7 +86,7 @@ la durée moyenne de scolarisation par individu.
 Encore, l’usage de la moyenne arithmétique accorde délibérément un poids égal aux deux indicateurs étudiés. Ces deux mesures agrégées forment le 
 Le même procédé de rapport entre 0 et 1 est effectué pour chacun des deux autres indices, via le même processus d’évaluation des valeurs minimales et maximales. 
 <br>
-### II – Calcul de la moyenne géométrique des sous-indices. 
+### II – Calcul de la moyenne géométrique des sous-indices
 Après l’évaluation des trois sous-indices, la moyenne géométrique est calculée, grâce à la formule précédemment évoquée.
 
 
@@ -154,4 +154,67 @@ Pour un dernier exemple et pour nuancer, il est possible de voir que l’IDH est
 
 Ces indicateurs, en quelques sorte des indicateurs réajustés qui se basent sur l’IDH, ont donc deux intérêts majeurs : ils limitent par un choix technique (le recours à la moyenne géométrique) l'incidence de la « compensation » totale entre plusieurs dimensions de l'indicateur composite mais ils tiennent aussi beaucoup plus compte des problèmes de sociétés, que ce soit les inégalités sociales et de genre, ou l’environnement. Ils visent toujours à améliorer la vision que donne l'indicateur du développement humain. Pour autant, cette plus grande pertinence statistique s'est accompagnée d'une complexification de l'outil ce qui l’éloigne de la compréhension globale par la population. 
 Pour conclure, l’IDH, grâce à sa double dimension, qualitative et quantitative, permet de nombreux usages, qu’ils soient ceux prévus originellement ou qu’ils soient différents grâce à l’ajout de nouvelles variables pour répondre à de nouveaux problèmes de société. 
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+# L’IDH n’est pas parfait 
+ 
+On entend souvent que le pays où il ferait le mieux vivre serait la Norvège... 
+Cependant, les personnes soutenant cette proposition se basent quasiment tous sur l’indice de développement humain... Et si finalement la réalité était différente ?
+ 
+Cet indicateur est souvent apprécié par de nombreux gouvernements et analystes, mais il ne fait pas l’unanimité et est quand même source de critiques et de débats, que ce soit l’espace public ou auprès d’économistes et professionnels. De nombreux colloques et conférences ont lieu à ce sujet au sein de cercles d’économistes et cela partout dans le monde. Ces réunions font l’objet de réelles remises en question de l’instrument mis en avant par le PNUD, chacun y apporte ses arguments et éléments de controverses, mais on y évoque aussi des alternatives ou encore de nouvelles propositions de calculs. 
+ 
+https://www.lesrencontreseconomiques.fr/2019/sessions/les-indicateurs-sont-ils-en-perte-de-sens/
+Cercle économiste d’Aix-En-Provence , 6 Juillet 2019, LES INDICATEURS SONT-ILS EN PERTE DE SENS ?
+ 
+A/ Les critiques de L’IDH
+ 
+Nous allons dans cette première partie mettre en avant les faiblesses majeurs de cet indicateur, qui font l’objet de nombreuses critiques. 
+ 
+Dans un premier temps, évoquons l’aspect éducation que prend en compte l’IDH. 
+Le taux d’alphabétisation mis en exergue dans le calcul est estimé à partir du nombre d’années de scolarisation. Cependant, d’un pays à un autre nous n’avons pas la même progression et le même nombre d'années de scolarité mais cela n’est pas forcément corrélé avec le taux d’analphabétisation.  
+ 
+Dans un second temps, le calcul se fait avec trois composantes : Indice d’espérance de vie, Indice d’éducation, Indice de revenu). Ces variables sont différentes, et exprimées avec des valeurs différentes et pourtant correspondent chacune à 1/3 du résultat. Cela entraîne un problème de compromis égaux, puisque cela voudrait dire que l’on pourrait avoir un même IDH en combinant les valeurs différemment et donc apporter par exemple une valeur économique à l’espérance de vie. 
+ A cela, il faut ajouter la qualité qui n’est prise en compte ni en termes d’éducation, ni en termes de santé et qui pourtant joue un rôle majeur pour éclairer de manière plus adéquate sur le développement d’un individu. De plus, l’IDH peut être difficile à calculer au-delà de l’échelle régionale à cause de l’indisponibilité de certaines données telles que le taux d’alphabétisation. 
+ 
+Enfin, la critique qui revient le plus régulièrement est le choix des composantes qui composent cet indicateur. En effet, de nombreuses critiques sont orientées sur l’absence de certaines variables dans ce calcul qui devraient y être intégrées, tel que le niveau de bien-être, le chômage ou encore les inégalités. D’autres indicateurs comme le coefficient de Gini peuvent pallier l’absence de certaines variable, en l’occurrence les inégalités au sein d’un même pays dont on mesure l’IDH, comme le Qatar qui semble surclassé par l’indice de revenu, et dont l’IDH ne reflèterait donc pas la réalité. Par ailleurs, certains aspects ne sont jamais pris en compte comme ceux du développement tel que la préservation de l’environnement. 
+
+A cause de ces critiques, qui soulignent les faiblesses de cet outil, une sorte de défiance croissante envers cet outil émerge malgré la volonté du PNUD de vouloir actualiser ses méthodes de calculs afin d’atteindre un IDH de plus en plus efficient.
+ 
+Cet outil ne faisant pas l’unanimité, de nombreuses personnes, organismes, et même les Nations Unies proposent des alternatives et outils complémentaires tel que l’indice de pauvreté multidimensionnelle qui a pour but de mettre en avant les inégalités, et donc de mieux cerner l’IDH avec un calcul supplémentaire. 
+ 
+B/ Qu’en pense le PNUD ? 
+ 
+https://www.youtube.com/watch?v=z5WlqmFG0k4
+ 
+Nous avons pu voir les critiques émises par de nombreux acteurs, mais finalement quel est l’avis de l’organisme à l’origine de cet indicateur ? 
+ 
+L’université de Genève a pu dans le cadre d’une interview poser des questions à Selim Jahan, Directeur de l’Office du rapport du développement humain. 
+ 
+Celui-ci s’avoue assez fier et satisfait de cet outil et notamment des grands bienfaits que l’on peut en déduire. L’outil reste tout de même plus complet que le PIB/habitant et pourtant assez simple (donc accessible) et efficace. Il met en avant notamment le fait que cet indicateur soit souvent pris comme exemple pour faire pression ou revendiquer certains changements en termes de politiques publiques de la part des gouvernements. 
+ 
+Effectivement, on retrouve l’IDH dans les revendications de certaines associations, partis politique, au sein de l’espace public et même au sein d’un espace public plus « virtuel » : Twitter. Il demeure donc une certaine confiance envers cet indicateur qui, malgré toutes les critiques formulées à son égard, reste un appui à certains arguments utilisés au sein du débat public.  
+
+ (cf https://twitter.com/vincentdevince2/status/1528049755196207105?s=12&t=LjIfZJD3xNepn3NCLnH6-Q => essayer de le caler dans le site web) 
+ 
+Cependant, Monsieur Jahan se montre adepte de l’auto-critique et met en avant certaines faiblesses de l’outil sur lequel il travaille. 
+Dans un premier temps, il rejoint certaines critiques et souligne le fait que ce soit un index composé et donc que dans certains cas, il perd en prédictibilité et robustesse. 
+Il évoque également le fait que les valeurs, lorsqu’elles sont intégrées au calcul, sont des quantités mesurées sur l’instant T et non pas un flux mesuré sur une période de temps, ce qui va déplaire selon lui aux gouvernements, puisqu’ils devront attendre de nombreuses années pour voir des changements sur certains indices de l’IDH, alors que les responsables politiques investissent en masse en parallèle pour changer la donne. 
+ 
+Enfin, il évoque le poids en termes de représentation, le fait que certaines variables soient plus importantes que d’autres, ce qui entraine des difficultés de quantification du poids de l’indicateur. Il explique d’ailleurs que l’importance dans cet index révèle finalement de choix sociaux de la part d’un individu. 
+
+Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et utile sur certains points, il faut tout de même évoquer ses faiblesses et la volonté de nombreux partis d’avoir recours à des outils complémentaires voir alternatifs afin de rendre compte du réel développement humain. 
+
+
+
+
+
 
