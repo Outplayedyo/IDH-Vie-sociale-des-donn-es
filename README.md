@@ -112,7 +112,8 @@ Etant un indicateur, son but est de mesurer le développement humain. Grâce à 
 Premièrement, nous allons voir son usage principal, celui pour lequel il a été créé puis nous verrons en suite les usages détournés qui ont pu être fait de cet indicateur, des années suivant sa création.
 
 <br>
-## I - Les principaux usages de l’IDH 
+
+##I - Les principaux usages de l’IDH 
 
 
 Dans un premier lieu, il permet de mieux mesurer les inégalités mondiales et de trouver des solutions aux problèmes d’éducation, d’accès à la santé et aussi de pauvreté. C’est l’usage principal de l’IDH qui découle de son calcul et de sa composition. 
