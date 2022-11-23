@@ -227,23 +227,23 @@ Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et uti
 ## Bibliographie
 <br>
 INSEE,Jérôme Accardo, Fabrice Murat, Gaël de Peretti, 2019 “L’indice de développement humain : une approche individuelle”, [En ligne]<br>
-[Link](https://webcache.googleusercontent.com/search?q=cache:Ai9KzGnd9nQJ:https://www.insee.fr/fr/statistiques/fichier/2586304/texte_accardo_de_peretti_murat.pdf&cd=4&hl=fr&ct=clnk&gl=fr)
+[Link](file:///C:/Users/julie/Downloads/texte_accardo_de_peretti_murat%20(4).pdf)
 
  
  
 GADREY J. ET F. JANY-CATRICE, 2003, « Les indicateurs de richesse et de développement. Un bilan international en vue d’une initiative française », Rapport de recherche commandité et financé par la DARES (Mission Animation de la Recherche). 
  
-Géo environnement, 2020, “qu’est ce que l’indice de développement humain”, [En ligne] 
+Géo environnement, 2020, “qu’est ce que l’indice de développement humain”, [En ligne]<br> 
 [Link](https://www.geo.fr/environnement/idh-quest-ce-que-lindice-de-developpement-humain-193546) 
 
-Vie publique, Les fiches, “L’indice de développement humain et les autres indices”, [En ligne]
+Vie publique, Les fiches, “L’indice de développement humain et les autres indices”, [En ligne]<br>
 [Link](https://www.vie-publique.fr/fiches/274930-quest-ce-que-lindice-de-developpement-humain-idh-et-autres-indicesB)
 
 Cairn info, Revue d’économie régionale et urbaine, 2011, “un indicateur de développement humain soutenable pour les petits espaces insulaires en développement”, pages 651 à 680, [Extrait en ligne] 
 [Link](https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2011-4-page-651.htm)
 
 
-Human development report, “technical notes”, 2020, [En ligne]
+Human development report, “technical notes”, 2020, [En ligne]<br>
 [Link](https://hdr.undp.org/system/files/documents//technical-notes-calculating-human-development-indices.pdf)
 
 World Bank. 2020. World Development Indicators database. Washington, DC, [En ligne]  
@@ -253,14 +253,14 @@ Le Senat, M. Bernard SEILLIER, “La lutte contre la pauvreté et l'exclusion : 
 [Link](https://www.senat.fr/rap/r07-445-1/r07-445-110.html) 
 
 
-PNUD, 2011, Rapport sur le développement humain, [En ligne] 
+PNUD, 2011, Rapport sur le développement humain, [En ligne]<br> 
 [Link](https://ise.unige.ch/isdd/IMG/pdf/HDR_2011_FR_TechNotes.pdf)
 
 Cairn info, Management et avenir, Gilles caire, Sophie Nivoix, 2019, “Noter humainement les entreprises : une proposition d’indice de développement humain des entreprises (IDHE)
-”, pages 43 à 63, [Extrait en ligne] 
+”, pages 43 à 63, [Extrait en ligne]<br> 
 [Link](https://www.cairn.info/revue-management-et-avenir-2019-8-page-43.htm)
 
-Journal Open Edition, Thomas Pogge, Mathilde Unge, 2013, “La critique des indices de pauvreté”,  [En ligne]
+Journal Open Edition, Thomas Pogge, Mathilde Unge, 2013, “La critique des indices de pauvreté”,  [En ligne]<br>
 [Link](https://journals.openedition.org/traces/5753)
 
 
