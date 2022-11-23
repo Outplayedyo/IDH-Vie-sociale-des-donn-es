@@ -4,7 +4,11 @@
 
 ## L'Histoire de l'IDH
 
-![imagenet logo](https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg)
+
+<p align="center"> 
+<img src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg" /> 
+</p>
+
 
 
 ![imagenet logo](https://cdn.economy-pedia.com/2330186/amartya_sen_-_biografa-_quin_es_y_qu_hizo_2021_economy-wikicom.jpg.webp)
@@ -59,6 +63,7 @@ Le calcul de l'IDH se fait en 2 étapes.
 ### I - Création des indices dimensionnels
 La 1re étape consiste à calculer les trois sous-indices de l'IDH. 
 Afin de pouvoir les agréger dans un seul indicateur – l’IDH -, la longévité, l’éducation et le revenu sont ramenés à une échelle comprise entre 0 et 1. De ce fait, la valeur maximale de chacun des indices peut être considérée comme référence idéale, ou objectif auquel tendre, pour tous les pays. Le tableau suivant indique les valeurs maximales et minimales pour les sous-indices de l'IDH paru en 2019, fondé sur les données de 2017 : 
+
 
 ![image](C:\Users\julie\OneDrive\Bureau\Cours\Master\Fin Strat\La vie sociale des données\Note collective\Ressources pour l'histoire de l'IDH\PHOTOS SITE)
 
