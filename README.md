@@ -43,7 +43,7 @@ Pour finir, dans sa volonté de prendre en compte de plus en plus de données po
 
 <br>
 <br>
-
+<br>
 
 
 
@@ -63,12 +63,14 @@ L’Indice de Développement Humain est un indice composite. Il est élaboré à
 Le PNUD endosse également la responsabilité de mettre la composition et la méthodologie de l’IDH en révision, à fréquence régulière, en réponse notamment à l’observation de variations conséquentes et/ou alarmantes. C’est pour cette raison que l’indice évolue régulièrement, afin d’affiner sa justesse. Nous pouvons ainsi constater la disparition de la prise en compte du niveau d’alphabétisation ou encore du PIB par habitant, considérés inadaptés voire obsolètes dans l’établissement d’un Indice de Développement Humain performant et juste. 
 
 La publication officielle de l’IDH est effectuée chaque année. Le rapport annuel est construit sur les données recueillies deux ans auparavant, dans un souci de disponibilité et de pertinence des données utilisées. A titre d’illustration, l’IDH d’un pays en 2018 est fondé sur les données recueillies à l’issue de l’année 2016. Malgré cette prise de recul, il est à noter que l’accès aux données n’est pas suffisant à la mesure d’un IDH correct dans certains pays. En 2021, c’était le cas de Monaco, la Corée du Nord, Nauru et la Somalie. 
+<br>
 
 ## Formules : 
 
 La mise en place du calcul de l’IDH par moyenne géométrique visait, lors de son instauration, à empêcher que la tendance extrême d’un des trois indicateurs soit compensée par le résultat des deux autres. En autres termes, si l’un des indicateurs est très bas pour un pays, alors que les deux autres sont corrects voire hauts, la moyenne géométrique laisse cette tendance inférieure transparaître dans l’IDH final. 
 
 Le calcul de l'IDH se fait en 2 étapes. 
+<br>
 ### I - Création des indices dimensionnels
 La 1re étape consiste à calculer les trois sous-indices de l'IDH. 
 Afin de pouvoir les agréger dans un seul indicateur – l’IDH -, la longévité, l’éducation et le revenu sont ramenés à une échelle comprise entre 0 et 1. De ce fait, la valeur maximale de chacun des indices peut être considérée comme référence idéale, ou objectif auquel tendre, pour tous les pays. Le tableau suivant indique les valeurs maximales et minimales pour les sous-indices de l'IDH paru en 2019, fondé sur les données de 2017 : 
@@ -84,10 +86,12 @@ la durée obligatoire ou attendue de scolarisation par l’Etat étudié.
 la durée moyenne de scolarisation par individu. 
 Encore, l’usage de la moyenne arithmétique accorde délibérément un poids égal aux deux indicateurs étudiés. Ces deux mesures agrégées forment le 
 Le même procédé de rapport entre 0 et 1 est effectué pour chacun des deux autres indices, via le même processus d’évaluation des valeurs minimales et maximales. 
+<br>
 ### II – Calcul de la moyenne géométrique des sous-indices. 
 Après l’évaluation des trois sous-indices, la moyenne géométrique est calculée, grâce à la formule précédemment évoquée.
 
 
+<br>
 <br>
 <br>
 
@@ -107,7 +111,7 @@ Etant un indicateur, son but est de mesurer le développement humain. Grâce à 
 
 Premièrement, nous allons voir son usage principal, celui pour lequel il a été créé puis nous verrons en suite les usages détournés qui ont pu être fait de cet indicateur, des années suivant sa création.
 
-
+<br>
 ## I - Les principaux usages de l’IDH 
 
 
@@ -127,7 +131,7 @@ L’IDH va donc permettre de cibler certains pays (ceux pour qui l’indicateur 
 
 Enfin, grâce aux mesures de l’IDH de chaque pays, un classement rendu public sera établi par le PNUD (autorité gestionnaire de l’IDH). Ce classement constate les évolutions et 
 régressions effectuées par les différents pays du monde en matière de développement (cela va permettre de constater l’effectivité des mesures et engagements pris individuellement par les différents Etats mais aussi par les coalitions internationales à la suite de la publication des résultats de cet indicateur).  Par exemple, le gouvernement d’Ottawa avance régulièrement que le Canada est le meilleur pays au monde en matière de « développement humain ». Pour le prouver, on cite le score attribué par le PNUD puisque le Canada s’est classé en tête à plusieurs reprises, devant les États-Unis et le Japon avec une note dépassant 0,93. 
-
+<br>
 ## II - Les usages détournés répondant à des phénomènes de société actuels 
 
 Dans une deuxième partie, il est possible de voir que l’IDH est un indicateur standard qui peut servir de base à la création d’autres indicateurs qui vont mesurer des choses plus spécifiques grâce à l’ajout de variables ou de sous-indicateurs indépendants. Voici quelques exemples de ce qui peut être fait pour utiliser l’IDH et répondre, ou mesurer des problèmes de société actuels. 
