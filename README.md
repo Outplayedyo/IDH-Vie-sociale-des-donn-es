@@ -4,9 +4,7 @@
 
 ## L'Histoire de l'IDH
 
-
-
-L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989, quittant sa fonction de ministre des Finances du Pakistan et en collaboration avec l’économiste indien Amartya Kumar Sen, il va proposer à William H. Draper III, alors administrateur du PNUD (Programme des Nations unies pour le Développement), la création d’un reporting annuel de l’évolution de l’humanité. Il compte prendre en compte différents critères tels l’espérance de vie à la naissance, le niveau d’éducation ou encore le revenu par habitant. ![imagenet logo](https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg)
+L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989, quittant sa fonction de ministre des Finances du Pakistan et en collaboration avec l’économiste indien Amartya Kumar Sen, il va proposer à William H. Draper III, alors administrateur du PNUD (Programme des Nations unies pour le Développement), la création d’un reporting annuel de l’évolution de l’humanité. Il compte prendre en compte différents critères tels l’espérance de vie à la naissance, le niveau d’éducation ou encore le revenu par habitant. 
 
 
 Cette initiative vient d’une critique qui nait à la fin des années 1960, début des années 1970 : le PIB par habitant ne rend pas compte de la notion de bien-être et se contente de quantifier le revenu national par rapport à l’individu. En effet, Mahbub estimait que la notion de PIB avait créé l’illusion qu’augmenter la production nationale signifiait augmenter le bien-être individuel ou collectif. Il considérait ce nouvel indice comme un rempart face aux gouvernements qui ne jurent que par l’augmentation du PIB, parfois via des productions néfastes pour les populations ou l’environnement.
@@ -37,16 +35,11 @@ Pour finir, dans sa volonté de prendre en compte de plus en plus de données po
 
 # Comment est calculé L’Indice de Développement Humain ? 
 
-![imagenet logo](https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg)
-
-
-
-
 
 L’Indice de Développement Humain est un indice composite. Il est élaboré à partir de la moyenne géométrique de 3 sous-indicateurs, considérés clefs dans l’évaluation du « développement humain ». Compris entre 0 et 1, de l’évaluation la plus basse à la plus haute, il repose donc sur les moyennes respectives de : 
     L’espérance de vie à la naissance. A travers cet indicateur de santé, une mesure indirecte des conditions de vie à venir des individus est estimée, via la satisfaction de besoins essentiels tels que l’accès à une alimentation saine, à l’eau potable, à un logement décent, ainsi que leur accès à la médecine et aux soins. Ces données sont fournies par le Département des Affaires économiques et sociales de l’ONU. 
     Le niveau d’éducation. Cette mesure du savoir des populations évalue la durée moyenne de scolarisation des adultes de plus de 25 ans (évaluée par Barro et Lee (2010)) ainsi que la durée obligatoire ou attendue de scolarisation pour les enfants scolarisables (mesurée par l’Institut de statistique de l’UNESCO). Ce sous indicateur entend est significatif dans la capacité d’un individu à se montrer autonome en milieu social, comme professionnel. 
-    Le revenu national brut par habitant. Révélateur du niveau de vie d’un individu, au sein d’une société, cet indice calculé officiellement par le Fonds Monétaire International et la Banque Mondiale est le logarithme du revenu brut par habitant en parité de pouvoir d'achat. Son calcul met en lumière des éléments relatifs à la qualité de vie, comme l’accès à la culture, aux transports, ou encore aux biens et services d’une 
+    Le revenu national brut par habitant. Révélateur du niveau de vie d’un individu, au sein d’une société, cet indice calculé officiellement par le Fonds Monétaire International et la Banque Mondiale est le logarithme du revenu brut par habitant en parité de pouvoir d'achat. Son calcul met en lumière des éléments relatifs à la qualité de vie, comme l’accès à la culture, aux transports, ou encore aux biens et services d’une population.
 
 Le PNUD endosse également la responsabilité de mettre la composition et la méthodologie de l’IDH en révision, à fréquence régulière, en réponse notamment à l’observation de variations conséquentes et/ou alarmantes. C’est pour cette raison que l’indice évolue régulièrement, afin d’affiner sa justesse. Nous pouvons ainsi constater la disparition de la prise en compte du niveau d’alphabétisation ou encore du PIB par habitant, considérés inadaptés voire obsolètes dans l’établissement d’un Indice de Développement Humain performant et juste. 
 
@@ -82,7 +75,7 @@ Revenu national brut par habitant (en PPA en $ de 2017)
 75 000 
 
 Une fois que les valeurs minimales et maximales sont définies, les sous-indices sont ramenés entre 0 et 1 avec la formule : 
-
+![imagenet logo](https://wikimedia.org/api/rest_v1/media/math/render/svg/62e9f8cdf5ba86208db27723c289f27e80c5a42f)
 
 Deux indicateurs construisent le sous-indice relatif à l’éducation : 
 la durée obligatoire ou attendue de scolarisation par l’Etat étudié. 
