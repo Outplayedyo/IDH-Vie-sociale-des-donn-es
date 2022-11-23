@@ -7,7 +7,7 @@
 ![imagenet logo](https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg)
 
 
-![imagenet logo](https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg](https://cdn.economy-pedia.com/2330186/amartya_sen_-_biografa-_quin_es_y_qu_hizo_2021_economy-wikicom.jpg.webp)
+![imagenet logo](https://cdn.economy-pedia.com/2330186/amartya_sen_-_biografa-_quin_es_y_qu_hizo_2021_economy-wikicom.jpg.webp)
 
 L’Indice de Développement Humain (IDH) nait en 1990 sous l’impulsion de Mahbub ul Haq, économiste, homme politique et banquier pakistanais. En effet, début 1989, quittant sa fonction de ministre des Finances du Pakistan et en collaboration avec l’économiste indien Amartya Kumar Sen, il va proposer à William H. Draper III, alors administrateur du PNUD (Programme des Nations unies pour le Développement), la création d’un reporting annuel de l’évolution de l’humanité. Il compte prendre en compte différents critères tels l’espérance de vie à la naissance, le niveau d’éducation ou encore le revenu par habitant. 
 
