@@ -120,7 +120,7 @@ Dans un premier lieu, il permet de mieux mesurer les inégalités mondiales et d
 
 -	Concernant les problèmes d’éducation et surtout d’accès à l’éducation, ceux-ci vont être calculés en se basant sur le sous-indice « niveau d’éducation ». Ce sous-indice sera calculé grâce à X variables, ce qui lui permet d’être le plus fiable possible. Il combine la variable de la durée moyenne observée de scolarisation (qui représente le niveau d’éducation de la population adulte actuelle qui est âgée de plus de 25 ans) ainsi que d’une variable de durée attendue de scolarisation, qui sera définie par l’UNESCO (nombre d’années de scolarisation dont un enfant en âge d’entrer à l’école peut espérer bénéficier si les taux de scolarisation par âge devaient demeurer inchangés tout au long de la vie de l’enfant). 
 
--	Concernant les problèmes de pauvreté, l’IDH constitue encore une fois un outil qui permet de trouver des solutions à ces problèmes. Il va permettre une meilleure compréhension de la fracture sociale entre “Pays du Nord” et “Pays du Sud”, c’est-à-dire enter les pays développés et en développement, depuis plus de 50 ans. Amartya Sen, à l’origine de l’IDH, parle de cette fracture sociale comme le “rideau de fer des inégalités”. . En se basant sur les données issues du rapport mondial sur le développement humain de 2021, on obtient cette cartographie de l’IDH dans le monde. 
+-	Concernant les problèmes de pauvreté, l’IDH constitue encore une fois un outil qui permet de trouver des solutions à ces problèmes. Il va permettre une meilleure compréhension de la fracture sociale entre “Pays du Nord” et “Pays du Sud”, c’est-à-dire enter les pays développés et en développement, depuis plus de 50 ans. Amartya Sen, à l’origine de l’IDH, parle de cette fracture sociale comme le “rideau de fer des inégalités”. . En se basant sur les données issues du rapport mondial sur le développement humain de 2021, on obtient cette cartographie interactive de l’IDH dans le monde. 
 
 
 <iframe width="624" height="386" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRHY2zXJcQfFEMjR-SlMiE2maEZNTeXjhbnvryB_BkYC5PXv_3cgyPEDXGj2bFfm_uK44Ny3gIspUZF/pubchart?oid=93428518&format=interactive"></iframe>
@@ -222,6 +222,9 @@ Enfin, il évoque le poids en termes de représentation, le fait que certaines v
 
 Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et utile sur certains points, il faut tout de même évoquer ses faiblesses et la volonté de nombreux partis d’avoir recours à des outils complémentaires voir alternatifs afin de rendre compte du réel développement humain. 
 
+<br>
+
+## Bibliographie
 <br>
 <br>
 
