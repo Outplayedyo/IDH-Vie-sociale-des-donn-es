@@ -227,7 +227,7 @@ Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et uti
 ## Bibliographie
 <br>
 INSEE,Jérôme Accardo, Fabrice Murat, Gaël de Peretti, 2019 “L’indice de développement humain : une approche individuelle”, [En ligne]<br>
-[Link](file:///C:/Users/julie/Downloads/texte_accardo_de_peretti_murat%20(4).pdf)
+[Link](https://www.insee.fr/fr/statistiques/fichier/2586304/texte_accardo_de_peretti_murat.pdf)
 
  
  
