@@ -198,7 +198,7 @@ Cet outil ne faisant pas l’unanimité, de nombreuses personnes, organismes, et
 <br>
 ## II - Qu’en pense le PNUD ?
  
- <iframe src="https://www.youtube.com/embed/Q1TvzKEuVCE" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
+ <iframe src="https://www.youtube.com/embed/z5WlqmFG0k4" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
  History of the Human Development index, and its major strengths and weaknesses, avril 2018
 
 <br>
