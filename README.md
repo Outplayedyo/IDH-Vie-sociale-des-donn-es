@@ -24,6 +24,8 @@ La version hybride de l’IDH depuis 2010 peut être représentée par ce schém
  
 
 De plus, le PNUD souhaite aller plus loin puisque dans le Rapport Mondial sur le Développement Humain de 2010 est créé l’IDHI (Indice de Développement Humain ajusté selon les Inégalités). Ce nouvel indice vient compléter l’IDH car selon ce rapport, « l'IDHI est le niveau réel de développement humain [car tenant compte des inégalités] » et que « l'IDH peut être vu comme un indice de développement humain “potentiel” ».
+
+
 Pour finir, dans sa volonté de prendre en compte de plus en plus de données pour évaluer le développement humain, le PNUD introduit dans son rapport annuel de 2019 le GDI (Gender Development Index). Celui-ci prend en compte les disparités liées au sexe, soit les différences de situation de vie entre les hommes et les femmes d'un pays considéré. Plus précisément, il reprend les variables de l’IDH tout en incluant les inégalités de sexe.
 
 
