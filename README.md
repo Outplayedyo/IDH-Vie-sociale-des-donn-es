@@ -41,7 +41,8 @@ De plus, le PNUD souhaite aller plus loin puisque dans le Rapport Mondial sur le
 Pour finir, dans sa volonté de prendre en compte de plus en plus de données pour évaluer le développement humain, le PNUD introduit dans son rapport annuel de 2019 le GDI (Gender Development Index). Celui-ci prend en compte les disparités liées au sexe, soit les différences de situation de vie entre les hommes et les femmes d'un pays considéré. Plus précisément, il reprend les variables de l’IDH tout en incluant les inégalités de sexe.
 
 
-
+<br>
+<br>
 
 
 
@@ -87,6 +88,8 @@ Le même procédé de rapport entre 0 et 1 est effectué pour chacun des deux au
 Après l’évaluation des trois sous-indices, la moyenne géométrique est calculée, grâce à la formule précédemment évoquée.
 
 
+<br>
+<br>
 
 
 
