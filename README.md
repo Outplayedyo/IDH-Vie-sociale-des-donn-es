@@ -121,6 +121,7 @@ Dans un premier lieu, il permet de mieux mesurer les inégalités mondiales et d
 -	Concernant les problèmes d’éducation et surtout d’accès à l’éducation, ceux-ci vont être calculés en se basant sur le sous-indice « niveau d’éducation ». Ce sous-indice sera calculé grâce à X variables, ce qui lui permet d’être le plus fiable possible. Il combine la variable de la durée moyenne observée de scolarisation (qui représente le niveau d’éducation de la population adulte actuelle qui est âgée de plus de 25 ans) ainsi que d’une variable de durée attendue de scolarisation, qui sera définie par l’UNESCO (nombre d’années de scolarisation dont un enfant en âge d’entrer à l’école peut espérer bénéficier si les taux de scolarisation par âge devaient demeurer inchangés tout au long de la vie de l’enfant). 
 
 -	Concernant les problèmes de pauvreté, l’IDH constitue encore une fois un outil qui permet de trouver des solutions à ces problèmes. Il va permettre une meilleure compréhension de la fracture sociale entre “Pays du Nord” et “Pays du Sud”, c’est-à-dire enter les pays développés et en développement, depuis plus de 50 ans. Amartya Sen, à l’origine de l’IDH, parle de cette fracture sociale comme le “rideau de fer des inégalités”. . En se basant sur les données issues du rapport mondial sur le développement humain de 2021, on obtient cette cartographie interactive de l’IDH dans le monde. 
+
 <br>
 
 <iframe width="624" height="386" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRHY2zXJcQfFEMjR-SlMiE2maEZNTeXjhbnvryB_BkYC5PXv_3cgyPEDXGj2bFfm_uK44Ny3gIspUZF/pubchart?oid=93428518&format=interactive"></iframe>
@@ -173,7 +174,9 @@ On entend souvent que le pays où il ferait le mieux vivre serait la Norvège...
 Cependant, les personnes soutenant cette proposition se basent quasiment tous sur l’indice de développement humain... Et si finalement la réalité était différente ?
  
 Cet indicateur est souvent apprécié par de nombreux gouvernements et analystes, mais il ne fait pas l’unanimité et est quand même source de critiques et de débats, que ce soit l’espace public ou auprès d’économistes et professionnels. De nombreux colloques et conférences ont lieu à ce sujet au sein de cercles d’économistes et cela partout dans le monde. Ces réunions font l’objet de réelles remises en question de l’instrument mis en avant par le PNUD, chacun y apporte ses arguments et éléments de controverses, mais on y évoque aussi des alternatives ou encore de nouvelles propositions de calculs. 
+
 <br>
+
 <iframe src="https://www.youtube.com/embed/Q1TvzKEuVCE" width="700" height="480" frameborder="0" allowfullscreen="true"> </iframe>
 Cercle économiste d’Aix-En-Provence , 6 Juillet 2019, LES INDICATEURS SONT-ILS EN PERTE DE SENS ?
 
