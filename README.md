@@ -210,11 +210,8 @@ Celui-ci s’avoue assez fier et satisfait de cet outil et notamment des grands 
  
 Effectivement, on retrouve l’IDH dans les revendications de certaines associations, partis politique, au sein de l’espace public et même au sein d’un espace public plus « virtuel » : Twitter. Il demeure donc une certaine confiance envers cet indicateur qui, malgré toutes les critiques formulées à son égard, reste un appui à certains arguments utilisés au sein du débat public.  
 
-<blockquote class="twitter-tweet">
-  <a href="https://twitter.com/{{ vincentdevince2/status/152804975519620710 }}"></a>
-</blockquote> 
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.644279d1635fd969e87af94a98bd232b.html?origin=https%3A%2F%2Fjphcoi.github.io" title="Twitter settings iframe" style="display: none;"></iframe>
 
  
 Cependant, Monsieur Jahan se montre adepte de l’auto-critique et met en avant certaines faiblesses de l’outil sur lequel il travaille. 
