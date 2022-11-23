@@ -35,6 +35,12 @@ Pour finir, dans sa volonté de prendre en compte de plus en plus de données po
 
 # Comment est calculé L’Indice de Développement Humain ? 
 
+![imagenet logo](https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg)
+
+
+
+
+
 L’Indice de Développement Humain est un indice composite. Il est élaboré à partir de la moyenne géométrique de 3 sous-indicateurs, considérés clefs dans l’évaluation du « développement humain ». Compris entre 0 et 1, de l’évaluation la plus basse à la plus haute, il repose donc sur les moyennes respectives de : 
     L’espérance de vie à la naissance. A travers cet indicateur de santé, une mesure indirecte des conditions de vie à venir des individus est estimée, via la satisfaction de besoins essentiels tels que l’accès à une alimentation saine, à l’eau potable, à un logement décent, ainsi que leur accès à la médecine et aux soins. Ces données sont fournies par le Département des Affaires économiques et sociales de l’ONU. 
     Le niveau d’éducation. Cette mesure du savoir des populations évalue la durée moyenne de scolarisation des adultes de plus de 25 ans (évaluée par Barro et Lee (2010)) ainsi que la durée obligatoire ou attendue de scolarisation pour les enfants scolarisables (mesurée par l’Institut de statistique de l’UNESCO). Ce sous indicateur entend est significatif dans la capacité d’un individu à se montrer autonome en milieu social, comme professionnel. 
