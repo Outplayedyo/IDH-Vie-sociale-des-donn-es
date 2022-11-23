@@ -1,7 +1,7 @@
 <h1 align="center"><FONT size ="20pt">Vie sociale des données : Enquête sur l'Indice de développement Humain (IDH)</FONT></h1>
 
 
-## L'Histoire de l'IDH
+# L'Histoire de l'IDH
 
 <img align="right" src="https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg">
 
@@ -82,7 +82,7 @@ Le même procédé de rapport entre 0 et 1 est effectué pour chacun des deux au
 Après l’évaluation des trois sous-indices, la moyenne géométrique est calculée, grâce à la formule précédemment évoquée : .
 
 
-## Les usages de l'IDH 
+# Les usages de l'IDH 
 
 Nous allons désormais étudier les usages que peuvent être fait de l’IDH. 
 A l’origine, celui-ci permet d’évaluer le niveau de développement des pays en se fondant non pas sur des données strictement économiques, mais sur la qualité de vie de leurs ressortissants. Comme nous l’avons vu, il a été créé pour pallier les limites du PIB par habitant qui évalue seulement la production économique sans prendre en compte le bien-être des populations, ce qui peut le modifier grandement. Les trois sous indicateurs qui le composent, que sont le PIB par habitant, l’espérance de vie à la naissance et le niveau d’éducation des enfants de 17 ans et plus comme nous l’avons vu dans les méthodes de calcul fondent les principaux usages que l’on va faire de l’IDH.  
@@ -92,7 +92,7 @@ Etant un indicateur, son but est de mesurer le développement humain. Grâce à 
 Premièrement, nous allons voir son usage principal, celui pour lequel il a été créé puis nous verrons en suite les usages détournés qui ont pu être fait de cet indicateur, des années suivant sa création.
 
 
-### I - Les principaux usages de l’IDH 
+## I - Les principaux usages de l’IDH 
 
 
 Dans un premier lieu, il permet de mieux mesurer les inégalités mondiales et de trouver des solutions aux problèmes d’éducation, d’accès à la santé et aussi de pauvreté. C’est l’usage principal de l’IDH qui découle de son calcul et de sa composition. 
@@ -112,7 +112,7 @@ L’IDH va donc permettre de cibler certains pays (ceux pour qui l’indicateur 
 Enfin, grâce aux mesures de l’IDH de chaque pays, un classement rendu public sera établi par le PNUD (autorité gestionnaire de l’IDH). Ce classement constate les évolutions et 
 régressions effectuées par les différents pays du monde en matière de développement (cela va permettre de constater l’effectivité des mesures et engagements pris individuellement par les différents Etats mais aussi par les coalitions internationales à la suite de la publication des résultats de cet indicateur).  Par exemple, le gouvernement d’Ottawa avance régulièrement que le Canada est le meilleur pays au monde en matière de « développement humain ». Pour le prouver, on cite le score attribué par le PNUD puisque le Canada s’est classé en tête à plusieurs reprises, devant les États-Unis et le Japon avec une note dépassant 0,93. 
 
-### II - Les usages détournés répondant à des phénomènes de société actuels 
+## II - Les usages détournés répondant à des phénomènes de société actuels 
 
 Dans une deuxième partie, il est possible de voir que l’IDH est un indicateur standard qui peut servir de base à la création d’autres indicateurs qui vont mesurer des choses plus spécifiques grâce à l’ajout de variables ou de sous-indicateurs indépendants. Voici quelques exemples de ce qui peut être fait pour utiliser l’IDH et répondre, ou mesurer des problèmes de société actuels. 
  
