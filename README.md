@@ -227,7 +227,7 @@ Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et uti
 ## Bibliographie
 <br>
 
-Cairn info, Revue d’économie régionale et urbaine, 2011, “un indicateur de développement humain soutenable pour les petits espaces insulaires en développement”, pages 651 à 680, [Extrait en ligne] 
+Cairn info, Revue d’économie régionale et urbaine, 2011, “un indicateur de développement humain soutenable pour les petits espaces insulaires en développement”, pages 651 à 680, [Extrait en ligne]<br>
 [Link](https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2011-4-page-651.htm)
 
 Cairn info, Management et avenir, Gilles caire, Sophie Nivoix, 2019, “Noter humainement les entreprises : une proposition d’indice de développement humain des entreprises (IDHE)
