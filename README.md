@@ -227,13 +227,13 @@ Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et uti
 ## Bibliographie
 <br>
 INSEE,Jérôme Accardo, Fabrice Murat, Gaël de Peretti, 2019 “L’indice de développement humain : une approche individuelle”, [En ligne]<br>
-https://webcache.googleusercontent.com/search?q=cache:Ai9KzGnd9nQJ:https://www.insee.fr/fr/statistiques/fichier/2586304/texte_accardo_de_peretti_murat.pdf&cd=4&hl=fr&ct=clnk&gl=fr
+[Link](https://webcache.googleusercontent.com/searchq=cache:Ai9KzGnd9nQJ:https://www.insee.fr/fr/statistiques/fichier/2586304/texte_accardo_de_peretti_murat.pdf&cd=4&hl=fr&ct=clnk&gl=fr)
  
  
 GADREY J. ET F. JANY-CATRICE, 2003, « Les indicateurs de richesse et de développement. Un bilan international en vue d’une initiative française », Rapport de recherche commandité et financé par la DARES (Mission Animation de la Recherche). 
  
 Géo environnement, 2020, “qu’est ce que l’indice de développement humain”, [En ligne] 
-https://www.geo.fr/environnement/idh-quest-ce-que-lindice-de-developpement-humain-193546 
+[Link](https://www.geo.fr/environnement/idh-quest-ce-que-lindice-de-developpement-humain-193546) 
 
 Vie publique, Les fiches, “L’indice de développement humain et les autres indices”, [En ligne]
 https://www.vie-publique.fr/fiches/274930-quest-ce-que-lindice-de-developpement-humain-idh-et-autres-indicesB 
