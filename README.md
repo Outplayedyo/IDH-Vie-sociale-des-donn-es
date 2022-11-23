@@ -226,6 +226,37 @@ Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et uti
 
 ## Bibliographie
 <br>
+INSEE,Jérôme Accardo, Fabrice Murat, Gaël de Peretti, 2019 “L’indice de développement humain : une approche individuelle”, [En ligne] 
+https://webcache.googleusercontent.com/search?q=cache:Ai9KzGnd9nQJ:https://www.insee.fr/fr/statistiques/fichier/2586304/texte_accardo_de_peretti_murat.pdf&cd=4&hl=fr&ct=clnk&gl=fr
+ 
+ 
+GADREY J. ET F. JANY-CATRICE, 2003, « Les indicateurs de richesse et de développement. Un bilan international en vue d’une initiative française », Rapport de recherche commandité et financé par la DARES (Mission Animation de la Recherche). 
+ 
+Géo environnement, 2020, “qu’est ce que l’indice de développement humain”, [En ligne] 
+https://www.geo.fr/environnement/idh-quest-ce-que-lindice-de-developpement-humain-193546 
+
+Vie publique, Les fiches, “L’indice de développement humain et les autres indices”, [En ligne]
+https://www.vie-publique.fr/fiches/274930-quest-ce-que-lindice-de-developpement-humain-idh-et-autres-indicesB 
+
+Cairn info, Revue d’économie régionale et urbaine, 2011, “un indicateur de développement humain soutenable pour les petits espaces insulaires en développement”, pages 651 à 680, [Extrait en ligne] 
+https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2011-4-page-651.htm 
+
+
+Human development report, “technical notes”, 2020, [En ligne]
+https://hdr.undp.org/system/files/documents//technical-notes-calculating-human-development-indices.pdf   
+
+World Bank. 2020. World Development Indicators database. Washington, DC, [En ligne]  
+http://data.worldbank.org 
+
+Le Senat, M. Bernard SEILLIER, “La lutte contre la pauvreté et l'exclusion : une responsabilité à partager”, 2008,[En ligne]
+https://www.senat.fr/rap/r07-445-1/r07-445-110.html 
+
+
+PNUD, 2011, Rapport sur le développement humain, [En ligne] 
+https://ise.unige.ch/isdd/IMG/pdf/HDR_2011_FR_TechNotes.pdf
+
+
+<br>
 <br>
 
 ## Julien Meunier, Laura Rey-Baron, Célestin Pineaud et Fayssal Yazami
