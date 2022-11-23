@@ -72,8 +72,8 @@ Une fois que les valeurs minimales et maximales sont définies, les sous-indices
 ![imagenet logo](https://wikimedia.org/api/rest_v1/media/math/render/svg/62e9f8cdf5ba86208db27723c289f27e80c5a42f)
 
 Deux indicateurs construisent le sous-indice relatif à l’éducation : 
-la durée obligatoire ou attendue de scolarisation par l’Etat étudié. 
-la durée moyenne de scolarisation par individu. 
+- **la durée obligatoire ou attendue de scolarisation par l’Etat étudié**. 
+- **la durée moyenne de scolarisation par individu**. 
 Encore, l’usage de la moyenne arithmétique accorde délibérément un poids égal aux deux indicateurs étudiés. Ces deux mesures agrégées forment le 
 Le même procédé de rapport entre 0 et 1 est effectué pour chacun des deux autres indices, via le même processus d’évaluation des valeurs minimales et maximales. 
 ### II – Calcul de la moyenne géométrique des sous-indices. 
