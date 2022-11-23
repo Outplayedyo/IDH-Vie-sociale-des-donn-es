@@ -59,26 +59,9 @@ Le calcul de l'IDH se fait en 2 étapes.
 ### I - Création des indices dimensionnels
 La 1re étape consiste à calculer les trois sous-indices de l'IDH. 
 Afin de pouvoir les agréger dans un seul indicateur – l’IDH -, la longévité, l’éducation et le revenu sont ramenés à une échelle comprise entre 0 et 1. De ce fait, la valeur maximale de chacun des indices peut être considérée comme référence idéale, ou objectif auquel tendre, pour tous les pays. Le tableau suivant indique les valeurs maximales et minimales pour les sous-indices de l'IDH paru en 2019, fondé sur les données de 2017 : 
-Définition des valeurs minimales et maximales pour le calcul des sous-indices 
-Indice 
-Mesure 
-Valeur minimale 
-Valeur maximale 
-Longévité 
-Espérance de vie à la naissance (en années) 
-20 
-85 
-Niveau d'éducation 
-Durée attendue de scolarisation (en années) 
-0 
-18 
-Durée moyenne de scolarisation (en années) 
-0 
-15 
-Niveau de revenu 
-Revenu national brut par habitant (en PPA en $ de 2017) 
-100 
-75 000 
+
+![image](C:\Users\julie\OneDrive\Bureau\Cours\Master\Fin Strat\La vie sociale des données\Note collective\Ressources pour l'histoire de l'IDH\PHOTOS SITE)
+
 
 Une fois que les valeurs minimales et maximales sont définies, les sous-indices sont ramenés entre 0 et 1 avec la formule : 
 ![imagenet logo](https://wikimedia.org/api/rest_v1/media/math/render/svg/62e9f8cdf5ba86208db27723c289f27e80c5a42f)
