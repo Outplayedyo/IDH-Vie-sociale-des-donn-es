@@ -43,7 +43,6 @@ Pour finir, dans sa volonté de prendre en compte de plus en plus de données po
 
 <br>
 <br>
-<br>
 
 
 
@@ -91,7 +90,6 @@ Le même procédé de rapport entre 0 et 1 est effectué pour chacun des deux au
 Après l’évaluation des trois sous-indices, la moyenne géométrique est calculée, grâce à la formule précédemment évoquée.
 
 
-<br>
 <br>
 <br>
 
