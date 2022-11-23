@@ -225,7 +225,7 @@ Nous l’aurons compris, si l’IDH apparaît comme un outil intéressant et uti
 <br>
 <br>
 
-## Julien Meunier, Laura Rey-Baron, Célestin Pineaud
+## Julien Meunier, Laura Rey-Baron, Célestin Pineaud et Fayssal Yazami
 
 
 
