@@ -2,7 +2,7 @@
 
 
 
-## <"text-align:center">L'Histoire de l'IDH
+## <5 align="center">L'Histoire de l'IDH</5>
 
 ![imagenet logo](https://zims-fr.kiwix.campusafrica.gos.orange.com/wikipedia_fr_all_maxi/I/m/Mahbub-ul-Haq.jpg)
 
